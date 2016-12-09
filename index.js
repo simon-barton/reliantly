@@ -1,3 +1,3 @@
 'use strict';
 
-require('./lib/robin');
+require('./lib/reliantly');
