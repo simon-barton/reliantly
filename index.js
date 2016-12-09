@@ -1,3 +1,3 @@
 'use strict';
 
-require('./lib/reliantly');
+module.exports = require('./lib/reliantly');
