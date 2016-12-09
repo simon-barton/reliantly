@@ -1,21 +1,21 @@
 {
-    "version": "0.1.0",
-    "name": "reliantly",
-    "homepage": "https://github.com/simon-barton/reliantly",
-    "keywords": [
-        "hapi",
-        "reliable",
-        "redis",
-        "queue"
-    ],
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "dependencies": {
-        "joi": "^10.0.5",
-        "lodash": "^4.17.2",
-        "redis": "^2.6.3",
-        "uuid": "^3.0.0"
-    }
+  "version": "0.1.1",
+  "name": "reliantly",
+  "homepage": "https://github.com/simon-barton/reliantly",
+  "keywords": [
+    "hapi",
+    "reliable",
+    "redis",
+    "queue"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "joi": "^10.0.5",
+    "lodash": "^4.17.2",
+    "redis": "^2.6.3",
+    "uuid": "^3.0.0"
+  }
 }
