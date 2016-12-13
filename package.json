@@ -13,6 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "bluebird": "^3.4.6",
     "joi": "^10.0.5",
     "lodash": "^4.17.2",
     "redis": "^2.6.3",
